@@ -1,0 +1,4 @@
+
+spring.aplication.name=springwebflux-bootcamp-service-credit-cards
+spring.data.mongodb.uri:mongodb://localhost:27017/credit-cards_db
+server.port=8007
